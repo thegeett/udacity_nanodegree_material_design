@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/geetthaker/.android/build-cache/ce7156e4f4724a3df408f653b67b0d1359e9e230/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
+        "source": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/geetthaker/.android/build-cache/ce7156e4f4724a3df408f653b67b0d1359e9e230/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/geetthaker/.android/build-cache/ce7156e4f4724a3df408f653b67b0d1359e9e230/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

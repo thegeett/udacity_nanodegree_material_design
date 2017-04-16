@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/libs/volley.jar
+FILE_HASH=c68094cbd011a3f9dccbfe16e77a2cf43622e277
+DX_VERSION=1.12
+JUMBO_MODE=false
+OPTIMIZE=true

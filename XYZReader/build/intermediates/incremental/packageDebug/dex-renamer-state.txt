@@ -1,0 +1,4 @@
+#Sat Apr 15 22:05:45 EDT 2017
+base.0=/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dexMerger/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dexMerger/debug/folders/1000/1f/main/classes.dex

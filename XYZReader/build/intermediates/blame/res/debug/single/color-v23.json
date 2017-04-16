@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/geetthaker/.android/build-cache/e8598dea578b5415c9d2f8faf76045692c2c4c3e/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/geetthaker/.android/build-cache/e8598dea578b5415c9d2f8faf76045692c2c4c3e/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/geetthaker/.android/build-cache/ce7156e4f4724a3df408f653b67b0d1359e9e230/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/geetthaker/.android/build-cache/e8598dea578b5415c9d2f8faf76045692c2c4c3e/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/geetthaker/.android/build-cache/e8598dea578b5415c9d2f8faf76045692c2c4c3e/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/geetthaker/.android/build-cache/e8598dea578b5415c9d2f8faf76045692c2c4c3e/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/geetthaker/.android/build-cache/e8598dea578b5415c9d2f8faf76045692c2c4c3e/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/geetthaker/.android/build-cache/e8598dea578b5415c9d2f8faf76045692c2c4c3e/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/geetthaker/.android/build-cache/e8598dea578b5415c9d2f8faf76045692c2c4c3e/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/geetthaker/Geet/dev/All_WorkSpace/android/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/geetthaker/.android/build-cache/e8598dea578b5415c9d2f8faf76045692c2c4c3e/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]
